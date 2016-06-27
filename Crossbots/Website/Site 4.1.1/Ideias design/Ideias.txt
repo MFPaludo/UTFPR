@@ -1,0 +1,10 @@
+Estilos diferentes para cada robô
+Logo e patrocinadores em fotos
+Referências nerd everywhere
+Marca com proporções
+Abertura explosão supernova
+Responsivo
+
+Bolinhas nas imagens de rolagem da Home
+Rolagem de patrocinadores
+Patrocinador cinza, e quando o mouse está em cima fica colorido

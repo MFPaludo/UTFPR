@@ -1,0 +1,60 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1436913841577">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_the-maester.css" crc="4221204382" ref="robôs:competições:index:equipe:mídia:contato:apoio"/>
+    <file name="rob_s.css" crc="475059694" ref="robôs"/>
+    <file name="competi__es.css" crc="475059694" ref="competições"/>
+    <file name="index.css" crc="3780268648" ref="index"/>
+    <file name="equipe.css" crc="4251756726" ref="equipe"/>
+    <file name="m_dia.css" crc="475059694" ref="mídia"/>
+    <file name="contato.css" crc="328080649" ref="contato"/>
+    <file name="apoio.css" crc="475059694" ref="apoio"/>
+  </folder>
+  <folder name="assets">
+    <file name="01-new-zealand.jpg" crc="3918151841" mt="1380601754000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+    <file name="museutils.js" crc="4136605575" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+    <file name="pie.js" crc="3827607177" ref="index:equipe"/>
+    <file name="webpro.js" crc="420478120" ref="index:equipe"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="index:equipe"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="index:equipe"/>
+    <file name="touchswipe.js" crc="60020316" ref="index:equipe"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+  </folder>
+  <folder name="images">
+    <file name="facebook.png" crc="4084761470" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+    <file name="youtube.png" crc="308384349" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+    <file name="e-mail.png" crc="4262733031" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+    <file name="patrocínio.png" crc="394674442" ref="index"/>
+    <file name="equipe.jpg" crc="4084205551" ref="index"/>
+    <file name="img_7293.jpg" crc="4284341645" ref="index"/>
+    <file name="img_7381.jpg" crc="107358701" ref="index"/>
+    <file name="img_7148.jpg" crc="120369030" ref="index"/>
+    <file name="img_7113.jpg" crc="3979072731" ref="index"/>
+    <file name="img_6959.jpg" crc="40051333" ref="index"/>
+    <file name="img_6912.jpg" crc="40356469" ref="index"/>
+    <file name="img_6906.jpg" crc="4089425489" ref="index"/>
+    <file name="img_6470.jpg" crc="3780024798" ref="index"/>
+    <file name="img_7512.jpg" crc="301294381" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_7424.jpg" crc="494530923" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="logo minimalist com texto preta.png" crc="4006713826" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+    <file name="logo sem texto pretafw.png" crc="4092748707" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+    <file name="up.png" crc="399008590" ref="index:robôs:equipe:mídia:competições:apoio:contato"/>
+    <file name="metal amarelofw.jpg" crc="4143748626" ref="equipe"/>
+    <file name="img_7279.jpg" crc="4088655184" ref="equipe"/>
+    <file name="u2276-4.png" crc="4265884002" ref="equipe"/>
+    <file name="belregard - ficha de personagem - costas.gif" crc="8335717" ref="equipe"/>
+  </folder>
+  <file name="index.html" crc="4018759644" mt="1436913801155" redirect="true"/>
+  <file name="robôs.html" crc="4099293689" mt="1436913801405" redirect="true"/>
+  <file name="equipe.html" crc="13570406" mt="1436913801405" redirect="true"/>
+  <file name="mídia.html" crc="221258412" mt="1436913801405" redirect="true"/>
+  <file name="competições.html" crc="150897765" mt="1436913801405" redirect="true"/>
+  <file name="apoio.html" crc="298790905" mt="1436913801420" redirect="true"/>
+  <file name="contato.html" crc="29826582" mt="1436913801420" redirect="true"/>
+</manifest>
