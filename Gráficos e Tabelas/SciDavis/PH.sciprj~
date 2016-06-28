@@ -1,0 +1,502 @@
+SciDAVis 1.0.5 project file
+<scripting-lang>	muParser
+<windows>	11
+<table>
+5365
+<table creation_time="2014-05-08 07:40:01:000" caption_spec="%n%C{ - }%c" name="Table1" columns="2" rows="30"><comment><![CDATA[]]></comment><column creation_time="2014-05-08 07:40:01:134" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 07:40:01:134" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 07:40:01:134" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">1.2000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">1.4000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">1.8000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">1.8199999999999999e+01</row><row type="TypeDouble" index="11" invalid="no">1.8399999999999999e+01</row><row type="TypeDouble" index="12" invalid="no">1.8600000000000001e+01</row><row type="TypeDouble" index="13" invalid="no">1.8800000000000001e+01</row><row type="TypeDouble" index="14" invalid="no">1.9000000000000000e+01</row><row type="TypeDouble" index="15" invalid="no">1.9199999999999999e+01</row><row type="TypeDouble" index="16" invalid="no">1.9399999999999999e+01</row><row type="TypeDouble" index="17" invalid="no">1.9600000000000001e+01</row><row type="TypeDouble" index="18" invalid="no">1.9800000000000001e+01</row><row type="TypeDouble" index="19" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="20" invalid="no">2.0199999999999999e+01</row><row type="TypeDouble" index="21" invalid="no">2.0399999999999999e+01</row><row type="TypeDouble" index="22" invalid="no">2.0600000000000001e+01</row><row type="TypeDouble" index="23" invalid="no">2.0800000000000001e+01</row><row type="TypeDouble" index="24" invalid="no">2.1000000000000000e+01</row><row type="TypeDouble" index="25" invalid="no">2.2000000000000000e+01</row></column><column creation_time="2014-05-08 07:40:01:134" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 07:40:01:134" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 07:40:01:134" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">8.2999999999999996e-01</row><row type="TypeDouble" index="1" invalid="no">9.1000000000000003e-01</row><row type="TypeDouble" index="2" invalid="no">9.6999999999999997e-01</row><row type="TypeDouble" index="3" invalid="no">1.0600000000000001e+00</row><row type="TypeDouble" index="4" invalid="no">1.1599999999999999e+00</row><row type="TypeDouble" index="5" invalid="no">1.2700000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">1.4099999999999999e+00</row><row type="TypeDouble" index="7" invalid="no">1.5800000000000001e+00</row><row type="TypeDouble" index="8" invalid="no">1.8600000000000001e+00</row><row type="TypeDouble" index="9" invalid="no">2.1600000000000001e+00</row><row type="TypeDouble" index="10" invalid="no">2.1800000000000002e+00</row><row type="TypeDouble" index="11" invalid="no">2.2500000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">2.3100000000000001e+00</row><row type="TypeDouble" index="13" invalid="no">2.3999999999999999e+00</row><row type="TypeDouble" index="14" invalid="no">2.5400000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">2.6600000000000001e+00</row><row type="TypeDouble" index="16" invalid="no">2.9100000000000001e+00</row><row type="TypeDouble" index="17" invalid="no">3.5400000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">5.2800000000000002e+00</row><row type="TypeDouble" index="19" invalid="no">6.1399999999999997e+00</row><row type="TypeDouble" index="20" invalid="no">8.6600000000000001e+00</row><row type="TypeDouble" index="21" invalid="no">1.0660000000000000e+01</row><row type="TypeDouble" index="22" invalid="no">1.0730000000000000e+01</row><row type="TypeDouble" index="23" invalid="no">1.1150000000000000e+01</row><row type="TypeDouble" index="24" invalid="no">1.1449999999999999e+01</row><row type="TypeDouble" index="25" invalid="no">1.2130000000000001e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	0	0	573	381	
+
+</table>
+<table>
+5371
+<table creation_time="2014-05-08 07:49:42:000" caption_spec="%n%C{ - }%c" name="FFTFiltered1" columns="2" rows="26"><comment><![CDATA[]]></comment><column creation_time="2014-05-08 07:49:42:292" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 07:49:42:292" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 07:49:42:292" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">1.2000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">1.4000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">1.8000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">1.8199999999999999e+01</row><row type="TypeDouble" index="11" invalid="no">1.8399999999999999e+01</row><row type="TypeDouble" index="12" invalid="no">1.8600000000000001e+01</row><row type="TypeDouble" index="13" invalid="no">1.8800000000000001e+01</row><row type="TypeDouble" index="14" invalid="no">1.9000000000000000e+01</row><row type="TypeDouble" index="15" invalid="no">1.9199999999999999e+01</row><row type="TypeDouble" index="16" invalid="no">1.9399999999999999e+01</row><row type="TypeDouble" index="17" invalid="no">1.9600000000000001e+01</row><row type="TypeDouble" index="18" invalid="no">1.9800000000000001e+01</row><row type="TypeDouble" index="19" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="20" invalid="no">2.0199999999999999e+01</row><row type="TypeDouble" index="21" invalid="no">2.0399999999999999e+01</row><row type="TypeDouble" index="22" invalid="no">2.0600000000000001e+01</row><row type="TypeDouble" index="23" invalid="no">2.0800000000000001e+01</row><row type="TypeDouble" index="24" invalid="no">2.1000000000000000e+01</row><row type="TypeDouble" index="25" invalid="no">2.2000000000000000e+01</row></column><column creation_time="2014-05-08 07:49:42:292" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 07:49:42:292" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 07:49:42:292" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">8.3000000000002139e-01</row><row type="TypeDouble" index="1" invalid="no">9.1000000000001613e-01</row><row type="TypeDouble" index="2" invalid="no">9.7000000000001285e-01</row><row type="TypeDouble" index="3" invalid="no">1.0600000000000136e+00</row><row type="TypeDouble" index="4" invalid="no">1.1600000000000170e+00</row><row type="TypeDouble" index="5" invalid="no">1.2700000000000198e+00</row><row type="TypeDouble" index="6" invalid="no">1.4100000000000190e+00</row><row type="TypeDouble" index="7" invalid="no">1.5800000000000232e+00</row><row type="TypeDouble" index="8" invalid="no">1.8600000000000192e+00</row><row type="TypeDouble" index="9" invalid="no">2.1600000000000192e+00</row><row type="TypeDouble" index="10" invalid="no">2.1800000000000095e+00</row><row type="TypeDouble" index="11" invalid="no">2.2500000000000115e+00</row><row type="TypeDouble" index="12" invalid="no">2.3099999999999885e+00</row><row type="TypeDouble" index="13" invalid="no">2.3999999999999746e+00</row><row type="TypeDouble" index="14" invalid="no">2.5399999999999872e+00</row><row type="TypeDouble" index="15" invalid="no">2.6599999999999828e+00</row><row type="TypeDouble" index="16" invalid="no">2.9099999999999886e+00</row><row type="TypeDouble" index="17" invalid="no">3.5399999999999845e+00</row><row type="TypeDouble" index="18" invalid="no">5.2799999999999816e+00</row><row type="TypeDouble" index="19" invalid="no">6.1399999999999766e+00</row><row type="TypeDouble" index="20" invalid="no">8.6599999999999806e+00</row><row type="TypeDouble" index="21" invalid="no">1.0659999999999979e+01</row><row type="TypeDouble" index="22" invalid="no">1.0729999999999981e+01</row><row type="TypeDouble" index="23" invalid="no">1.1149999999999981e+01</row><row type="TypeDouble" index="24" invalid="no">1.1449999999999998e+01</row><row type="TypeDouble" index="25" invalid="no">1.2130000000000008e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	532	254	573	381	hidden
+
+</table>
+<table>
+5368
+<table creation_time="2014-05-08 07:50:05:000" caption_spec="%n%C{ - }%c" name="Smoothed1" columns="2" rows="26"><comment><![CDATA[]]></comment><column creation_time="2014-05-08 07:50:05:003" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 07:50:05:003" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 07:50:05:003" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">1.2000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">1.4000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">1.8000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">1.8199999999999999e+01</row><row type="TypeDouble" index="11" invalid="no">1.8399999999999999e+01</row><row type="TypeDouble" index="12" invalid="no">1.8600000000000001e+01</row><row type="TypeDouble" index="13" invalid="no">1.8800000000000001e+01</row><row type="TypeDouble" index="14" invalid="no">1.9000000000000000e+01</row><row type="TypeDouble" index="15" invalid="no">1.9199999999999999e+01</row><row type="TypeDouble" index="16" invalid="no">1.9399999999999999e+01</row><row type="TypeDouble" index="17" invalid="no">1.9600000000000001e+01</row><row type="TypeDouble" index="18" invalid="no">1.9800000000000001e+01</row><row type="TypeDouble" index="19" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="20" invalid="no">2.0199999999999999e+01</row><row type="TypeDouble" index="21" invalid="no">2.0399999999999999e+01</row><row type="TypeDouble" index="22" invalid="no">2.0600000000000001e+01</row><row type="TypeDouble" index="23" invalid="no">2.0800000000000001e+01</row><row type="TypeDouble" index="24" invalid="no">2.1000000000000000e+01</row><row type="TypeDouble" index="25" invalid="no">2.2000000000000000e+01</row></column><column creation_time="2014-05-08 07:50:05:003" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 07:50:05:003" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 07:50:05:003" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">6.3200000000000056e-01</row><row type="TypeDouble" index="1" invalid="no">9.6828571428571497e-01</row><row type="TypeDouble" index="2" invalid="no">9.7600000000000109e-01</row><row type="TypeDouble" index="3" invalid="no">1.0582857142857156e+00</row><row type="TypeDouble" index="4" invalid="no">1.1582857142857155e+00</row><row type="TypeDouble" index="5" invalid="no">1.2717142857142871e+00</row><row type="TypeDouble" index="6" invalid="no">1.4031428571428588e+00</row><row type="TypeDouble" index="7" invalid="no">1.5945714285714305e+00</row><row type="TypeDouble" index="8" invalid="no">1.8780000000000019e+00</row><row type="TypeDouble" index="9" invalid="no">2.1060000000000025e+00</row><row type="TypeDouble" index="10" invalid="no">2.2134285714285737e+00</row><row type="TypeDouble" index="11" invalid="no">2.2414285714285742e+00</row><row type="TypeDouble" index="12" invalid="no">2.3117142857142885e+00</row><row type="TypeDouble" index="13" invalid="no">2.4077142857142881e+00</row><row type="TypeDouble" index="14" invalid="no">2.5211428571428600e+00</row><row type="TypeDouble" index="15" invalid="no">2.6514285714285748e+00</row><row type="TypeDouble" index="16" invalid="no">2.8688571428571472e+00</row><row type="TypeDouble" index="17" invalid="no">3.7731428571428620e+00</row><row type="TypeDouble" index="18" invalid="no">4.8917142857142917e+00</row><row type="TypeDouble" index="19" invalid="no">6.5445714285714365e+00</row><row type="TypeDouble" index="20" invalid="no">8.5940000000000083e+00</row><row type="TypeDouble" index="21" invalid="no">1.0343714285714295e+01</row><row type="TypeDouble" index="22" invalid="no">1.0965714285714297e+01</row><row type="TypeDouble" index="23" invalid="no">1.1066857142857156e+01</row><row type="TypeDouble" index="24" invalid="no">1.2623428571428578e+01</row><row type="TypeDouble" index="25" invalid="no">8.8617142857142923e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	532	0	573	381	hidden
+
+</table>
+<table>
+5368
+<table creation_time="2014-05-08 07:50:13:000" caption_spec="%n%C{ - }%c" name="Smoothed3" columns="2" rows="26"><comment><![CDATA[]]></comment><column creation_time="2014-05-08 07:50:13:809" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 07:50:13:809" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 07:50:13:809" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">1.2000000000000000e+01</row><row type="TypeDouble" index="7" invalid="no">1.4000000000000000e+01</row><row type="TypeDouble" index="8" invalid="no">1.6000000000000000e+01</row><row type="TypeDouble" index="9" invalid="no">1.8000000000000000e+01</row><row type="TypeDouble" index="10" invalid="no">1.8199999999999999e+01</row><row type="TypeDouble" index="11" invalid="no">1.8399999999999999e+01</row><row type="TypeDouble" index="12" invalid="no">1.8600000000000001e+01</row><row type="TypeDouble" index="13" invalid="no">1.8800000000000001e+01</row><row type="TypeDouble" index="14" invalid="no">1.9000000000000000e+01</row><row type="TypeDouble" index="15" invalid="no">1.9199999999999999e+01</row><row type="TypeDouble" index="16" invalid="no">1.9399999999999999e+01</row><row type="TypeDouble" index="17" invalid="no">1.9600000000000001e+01</row><row type="TypeDouble" index="18" invalid="no">1.9800000000000001e+01</row><row type="TypeDouble" index="19" invalid="no">2.0000000000000000e+01</row><row type="TypeDouble" index="20" invalid="no">2.0199999999999999e+01</row><row type="TypeDouble" index="21" invalid="no">2.0399999999999999e+01</row><row type="TypeDouble" index="22" invalid="no">2.0600000000000001e+01</row><row type="TypeDouble" index="23" invalid="no">2.0800000000000001e+01</row><row type="TypeDouble" index="24" invalid="no">2.1000000000000000e+01</row><row type="TypeDouble" index="25" invalid="no">2.2000000000000000e+01</row></column><column creation_time="2014-05-08 07:50:13:809" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 07:50:13:809" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 07:50:13:809" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">8.2999999999999996e-01</row><row type="TypeDouble" index="1" invalid="no">9.0333333333333332e-01</row><row type="TypeDouble" index="2" invalid="no">9.8599999999999999e-01</row><row type="TypeDouble" index="3" invalid="no">1.0740000000000001e+00</row><row type="TypeDouble" index="4" invalid="no">1.1739999999999999e+00</row><row type="TypeDouble" index="5" invalid="no">1.2960000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">1.4560000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">1.6560000000000001e+00</row><row type="TypeDouble" index="8" invalid="no">1.8380000000000001e+00</row><row type="TypeDouble" index="9" invalid="no">2.0060000000000002e+00</row><row type="TypeDouble" index="10" invalid="no">2.1520000000000001e+00</row><row type="TypeDouble" index="11" invalid="no">2.2600000000000002e+00</row><row type="TypeDouble" index="12" invalid="no">2.3359999999999999e+00</row><row type="TypeDouble" index="13" invalid="no">2.4319999999999999e+00</row><row type="TypeDouble" index="14" invalid="no">2.5640000000000001e+00</row><row type="TypeDouble" index="15" invalid="no">2.8100000000000001e+00</row><row type="TypeDouble" index="16" invalid="no">3.3860000000000001e+00</row><row type="TypeDouble" index="17" invalid="no">4.1059999999999999e+00</row><row type="TypeDouble" index="18" invalid="no">5.3060000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">6.8559999999999999e+00</row><row type="TypeDouble" index="20" invalid="no">8.2940000000000005e+00</row><row type="TypeDouble" index="21" invalid="no">9.4680000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">1.0529999999999999e+01</row><row type="TypeDouble" index="23" invalid="no">1.1224000000000000e+01</row><row type="TypeDouble" index="24" invalid="no">1.1576666666666666e+01</row><row type="TypeDouble" index="25" invalid="no">1.2130000000000001e+01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	0	254	573	381	hidden
+
+</table>
+<table>
+2081
+<table creation_time="2014-05-08 08:09:12:000" caption_spec="%n%C{ - }%c" name="Derivative1" columns="2" rows="4"><comment><![CDATA[]]></comment><column creation_time="2014-05-08 08:09:12:991" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 08:09:12:991" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 08:09:12:991" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.9199999999999999e+01</row><row type="TypeDouble" index="1" invalid="no">1.9399999999999999e+01</row><row type="TypeDouble" index="2" invalid="no">1.9600000000000001e+01</row><row type="TypeDouble" index="3" invalid="no">1.9800000000000001e+01</row></column><column creation_time="2014-05-08 08:09:12:991" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-05-08 08:09:12:991" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-05-08 08:09:12:991" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">9.2500000000000360e-01</row><row type="TypeDouble" index="1" invalid="no">2.1999999999999797e+00</row><row type="TypeDouble" index="2" invalid="no">5.9249999999999936e+00</row><row type="TypeDouble" index="3" invalid="no">6.5000000000000222e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	513	254	573	381	hidden
+
+</table>
+<table>
+16170
+<table creation_time="2014-08-08 08:22:30:000" caption_spec="%n%C{ - }%c" name="Derivative3" columns="2" rows="98"><comment><![CDATA[]]></comment><column creation_time="2014-08-08 08:22:30:178" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-08-08 08:22:30:178" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-08-08 08:22:30:178" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">2.2222222222222221e-01</row><row type="TypeDouble" index="1" invalid="no">4.4444444444444442e-01</row><row type="TypeDouble" index="2" invalid="no">6.6666666666666663e-01</row><row type="TypeDouble" index="3" invalid="no">8.8888888888888884e-01</row><row type="TypeDouble" index="4" invalid="no">1.1111111111111112e+00</row><row type="TypeDouble" index="5" invalid="no">1.3333333333333335e+00</row><row type="TypeDouble" index="6" invalid="no">1.5555555555555558e+00</row><row type="TypeDouble" index="7" invalid="no">1.7777777777777781e+00</row><row type="TypeDouble" index="8" invalid="no">2.0000000000000004e+00</row><row type="TypeDouble" index="9" invalid="no">2.2222222222222228e+00</row><row type="TypeDouble" index="10" invalid="no">2.4444444444444451e+00</row><row type="TypeDouble" index="11" invalid="no">2.6666666666666674e+00</row><row type="TypeDouble" index="12" invalid="no">2.8888888888888897e+00</row><row type="TypeDouble" index="13" invalid="no">3.1111111111111120e+00</row><row type="TypeDouble" index="14" invalid="no">3.3333333333333344e+00</row><row type="TypeDouble" index="15" invalid="no">3.5555555555555567e+00</row><row type="TypeDouble" index="16" invalid="no">3.7777777777777790e+00</row><row type="TypeDouble" index="17" invalid="no">4.0000000000000009e+00</row><row type="TypeDouble" index="18" invalid="no">4.2222222222222232e+00</row><row type="TypeDouble" index="19" invalid="no">4.4444444444444455e+00</row><row type="TypeDouble" index="20" invalid="no">4.6666666666666679e+00</row><row type="TypeDouble" index="21" invalid="no">4.8888888888888902e+00</row><row type="TypeDouble" index="22" invalid="no">5.1111111111111125e+00</row><row type="TypeDouble" index="23" invalid="no">5.3333333333333348e+00</row><row type="TypeDouble" index="24" invalid="no">5.5555555555555571e+00</row><row type="TypeDouble" index="25" invalid="no">5.7777777777777795e+00</row><row type="TypeDouble" index="26" invalid="no">6.0000000000000018e+00</row><row type="TypeDouble" index="27" invalid="no">6.2222222222222241e+00</row><row type="TypeDouble" index="28" invalid="no">6.4444444444444464e+00</row><row type="TypeDouble" index="29" invalid="no">6.6666666666666687e+00</row><row type="TypeDouble" index="30" invalid="no">6.8888888888888911e+00</row><row type="TypeDouble" index="31" invalid="no">7.1111111111111134e+00</row><row type="TypeDouble" index="32" invalid="no">7.3333333333333357e+00</row><row type="TypeDouble" index="33" invalid="no">7.5555555555555580e+00</row><row type="TypeDouble" index="34" invalid="no">7.7777777777777803e+00</row><row type="TypeDouble" index="35" invalid="no">8.0000000000000018e+00</row><row type="TypeDouble" index="36" invalid="no">8.2222222222222232e+00</row><row type="TypeDouble" index="37" invalid="no">8.4444444444444446e+00</row><row type="TypeDouble" index="38" invalid="no">8.6666666666666661e+00</row><row type="TypeDouble" index="39" invalid="no">8.8888888888888875e+00</row><row type="TypeDouble" index="40" invalid="no">9.1111111111111089e+00</row><row type="TypeDouble" index="41" invalid="no">9.3333333333333304e+00</row><row type="TypeDouble" index="42" invalid="no">9.5555555555555518e+00</row><row type="TypeDouble" index="43" invalid="no">9.7777777777777732e+00</row><row type="TypeDouble" index="44" invalid="no">9.9999999999999947e+00</row><row type="TypeDouble" index="45" invalid="no">1.0222222222222216e+01</row><row type="TypeDouble" index="46" invalid="no">1.0444444444444438e+01</row><row type="TypeDouble" index="47" invalid="no">1.0666666666666659e+01</row><row type="TypeDouble" index="48" invalid="no">1.0888888888888880e+01</row><row type="TypeDouble" index="49" invalid="no">1.1111111111111102e+01</row><row type="TypeDouble" index="50" invalid="no">1.1333333333333323e+01</row><row type="TypeDouble" index="51" invalid="no">1.1555555555555545e+01</row><row type="TypeDouble" index="52" invalid="no">1.1777777777777766e+01</row><row type="TypeDouble" index="53" invalid="no">1.1999999999999988e+01</row><row type="TypeDouble" index="54" invalid="no">1.2222222222222209e+01</row><row type="TypeDouble" index="55" invalid="no">1.2444444444444430e+01</row><row type="TypeDouble" index="56" invalid="no">1.2666666666666652e+01</row><row type="TypeDouble" index="57" invalid="no">1.2888888888888873e+01</row><row type="TypeDouble" index="58" invalid="no">1.3111111111111095e+01</row><row type="TypeDouble" index="59" invalid="no">1.3333333333333316e+01</row><row type="TypeDouble" index="60" invalid="no">1.3555555555555538e+01</row><row type="TypeDouble" index="61" invalid="no">1.3777777777777759e+01</row><row type="TypeDouble" index="62" invalid="no">1.3999999999999980e+01</row><row type="TypeDouble" index="63" invalid="no">1.4222222222222202e+01</row><row type="TypeDouble" index="64" invalid="no">1.4444444444444423e+01</row><row type="TypeDouble" index="65" invalid="no">1.4666666666666645e+01</row><row type="TypeDouble" index="66" invalid="no">1.4888888888888866e+01</row><row type="TypeDouble" index="67" invalid="no">1.5111111111111088e+01</row><row type="TypeDouble" index="68" invalid="no">1.5333333333333309e+01</row><row type="TypeDouble" index="69" invalid="no">1.5555555555555530e+01</row><row type="TypeDouble" index="70" invalid="no">1.5777777777777752e+01</row><row type="TypeDouble" index="71" invalid="no">1.5999999999999973e+01</row><row type="TypeDouble" index="72" invalid="no">1.6222222222222197e+01</row><row type="TypeDouble" index="73" invalid="no">1.6444444444444418e+01</row><row type="TypeDouble" index="74" invalid="no">1.6666666666666639e+01</row><row type="TypeDouble" index="75" invalid="no">1.6888888888888861e+01</row><row type="TypeDouble" index="76" invalid="no">1.7111111111111082e+01</row><row type="TypeDouble" index="77" invalid="no">1.7333333333333304e+01</row><row type="TypeDouble" index="78" invalid="no">1.7555555555555525e+01</row><row type="TypeDouble" index="79" invalid="no">1.7777777777777747e+01</row><row type="TypeDouble" index="80" invalid="no">1.7999999999999968e+01</row><row type="TypeDouble" index="81" invalid="no">1.8222222222222189e+01</row><row type="TypeDouble" index="82" invalid="no">1.8444444444444411e+01</row><row type="TypeDouble" index="83" invalid="no">1.8666666666666632e+01</row><row type="TypeDouble" index="84" invalid="no">1.8888888888888854e+01</row><row type="TypeDouble" index="85" invalid="no">1.9111111111111075e+01</row><row type="TypeDouble" index="86" invalid="no">1.9333333333333297e+01</row><row type="TypeDouble" index="87" invalid="no">1.9555555555555518e+01</row><row type="TypeDouble" index="88" invalid="no">1.9777777777777739e+01</row><row type="TypeDouble" index="89" invalid="no">1.9999999999999961e+01</row><row type="TypeDouble" index="90" invalid="no">2.0222222222222182e+01</row><row type="TypeDouble" index="91" invalid="no">2.0444444444444404e+01</row><row type="TypeDouble" index="92" invalid="no">2.0666666666666625e+01</row><row type="TypeDouble" index="93" invalid="no">2.0888888888888847e+01</row><row type="TypeDouble" index="94" invalid="no">2.1111111111111068e+01</row><row type="TypeDouble" index="95" invalid="no">2.1333333333333290e+01</row><row type="TypeDouble" index="96" invalid="no">2.1555555555555511e+01</row><row type="TypeDouble" index="97" invalid="no">2.1777777777777732e+01</row></column><column creation_time="2014-08-08 08:22:30:178" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-08-08 08:22:30:178" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-08-08 08:22:30:178" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="30" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="31" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="32" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="33" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="34" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="35" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="36" invalid="no">3.9968028886505777e-15</row><row type="TypeDouble" index="37" invalid="no">3.9968028886505777e-15</row><row type="TypeDouble" index="38" invalid="no">1.1990408665951733e-14</row><row type="TypeDouble" index="39" invalid="no">2.7977620220554046e-14</row><row type="TypeDouble" index="40" invalid="no">4.7961634663806933e-14</row><row type="TypeDouble" index="41" invalid="no">9.5923269327613866e-14</row><row type="TypeDouble" index="42" invalid="no">1.8784973576657714e-13</row><row type="TypeDouble" index="43" invalid="no">3.8768988019910603e-13</row><row type="TypeDouble" index="44" invalid="no">7.8337336617551328e-13</row><row type="TypeDouble" index="45" invalid="no">1.5707435352396771e-12</row><row type="TypeDouble" index="46" invalid="no">3.1534774791453059e-12</row><row type="TypeDouble" index="47" invalid="no">6.3469229871771175e-12</row><row type="TypeDouble" index="48" invalid="no">1.2773782032127246e-11</row><row type="TypeDouble" index="49" invalid="no">2.5691448968245913e-11</row><row type="TypeDouble" index="50" invalid="no">5.1690651758917919e-11</row><row type="TypeDouble" index="51" invalid="no">1.0398482075402209e-10</row><row type="TypeDouble" index="52" invalid="no">2.0919665999485990e-10</row><row type="TypeDouble" index="53" invalid="no">4.2086334417490584e-10</row><row type="TypeDouble" index="54" invalid="no">8.4667073352307243e-10</row><row type="TypeDouble" index="55" invalid="no">1.7033054966475507e-09</row><row type="TypeDouble" index="56" invalid="no">3.4266629533874613e-09</row><row type="TypeDouble" index="57" invalid="no">6.8936616415271849e-09</row><row type="TypeDouble" index="58" invalid="no">1.3868458381693976e-08</row><row type="TypeDouble" index="59" invalid="no">2.7900146193360442e-08</row><row type="TypeDouble" index="60" invalid="no">5.6128693692869745e-08</row><row type="TypeDouble" index="61" invalid="no">1.1291803092561321e-07</row><row type="TypeDouble" index="62" invalid="no">2.2716512670939517e-07</row><row type="TypeDouble" index="63" invalid="no">4.5700403461523984e-07</row><row type="TypeDouble" index="64" invalid="no">9.1938709045891515e-07</row><row type="TypeDouble" index="65" invalid="no">1.8495954647868084e-06</row><row type="TypeDouble" index="66" invalid="no">3.7209606156274464e-06</row><row type="TypeDouble" index="67" invalid="no">7.4857158471886272e-06</row><row type="TypeDouble" index="68" invalid="no">1.5059532373129568e-05</row><row type="TypeDouble" index="69" invalid="no">3.0296286807285464e-05</row><row type="TypeDouble" index="70" invalid="no">6.0949037820723579e-05</row><row type="TypeDouble" index="71" invalid="no">1.2261493316678674e-04</row><row type="TypeDouble" index="72" invalid="no">2.4667094018182589e-04</row><row type="TypeDouble" index="73" invalid="no">4.9623662397246977e-04</row><row type="TypeDouble" index="74" invalid="no">9.9827913854522513e-04</row><row type="TypeDouble" index="75" invalid="no">2.0081668962483937e-03</row><row type="TypeDouble" index="76" invalid="no">4.0393983729023622e-03</row><row type="TypeDouble" index="77" invalid="no">8.1240271718092966e-03</row><row type="TypeDouble" index="78" invalid="no">1.6334316563769550e-02</row><row type="TypeDouble" index="79" invalid="no">3.2823066874397740e-02</row><row type="TypeDouble" index="80" invalid="no">6.5879828456876469e-02</row><row type="TypeDouble" index="81" invalid="no">1.3192091233568840e-01</row><row type="TypeDouble" index="82" invalid="no">2.6293786132608693e-01</row><row type="TypeDouble" index="83" invalid="no">5.1925741921687518e-01</row><row type="TypeDouble" index="84" invalid="no">1.0070906123165000e+00</row><row type="TypeDouble" index="85" invalid="no">1.8871783294830191e+00</row><row type="TypeDouble" index="86" invalid="no">3.3223207949867350e+00</row><row type="TypeDouble" index="87" invalid="no">5.2688570080189407e+00</row><row type="TypeDouble" index="88" invalid="no">7.1577695467033831e+00</row><row type="TypeDouble" index="89" invalid="no">7.9840413987701986e+00</row><row type="TypeDouble" index="90" invalid="no">7.1910401441558767e+00</row><row type="TypeDouble" index="91" invalid="no">5.3142641889741249e+00</row><row type="TypeDouble" index="92" invalid="no">3.3605283342932966e+00</row><row type="TypeDouble" index="93" invalid="no">1.9123104409558087e+00</row><row type="TypeDouble" index="94" invalid="no">1.0215444574980079e+00</row><row type="TypeDouble" index="95" invalid="no">5.2699719301656744e-01</row><row type="TypeDouble" index="96" invalid="no">2.6693219303789434e-01</row><row type="TypeDouble" index="97" invalid="no">1.3394404265623641e-01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	532	0	573	381	hidden
+
+</table>
+<table>
+15877
+<table creation_time="2014-08-08 08:25:39:000" caption_spec="%n%C{ - }%c" name="Derivative5" columns="2" rows="96"><comment><![CDATA[]]></comment><column creation_time="2014-08-08 08:25:39:012" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-08-08 08:25:39:012" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-08-08 08:25:39:012" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">4.4444444444444442e-01</row><row type="TypeDouble" index="1" invalid="no">6.6666666666666663e-01</row><row type="TypeDouble" index="2" invalid="no">8.8888888888888884e-01</row><row type="TypeDouble" index="3" invalid="no">1.1111111111111112e+00</row><row type="TypeDouble" index="4" invalid="no">1.3333333333333335e+00</row><row type="TypeDouble" index="5" invalid="no">1.5555555555555558e+00</row><row type="TypeDouble" index="6" invalid="no">1.7777777777777781e+00</row><row type="TypeDouble" index="7" invalid="no">2.0000000000000004e+00</row><row type="TypeDouble" index="8" invalid="no">2.2222222222222228e+00</row><row type="TypeDouble" index="9" invalid="no">2.4444444444444451e+00</row><row type="TypeDouble" index="10" invalid="no">2.6666666666666674e+00</row><row type="TypeDouble" index="11" invalid="no">2.8888888888888897e+00</row><row type="TypeDouble" index="12" invalid="no">3.1111111111111120e+00</row><row type="TypeDouble" index="13" invalid="no">3.3333333333333344e+00</row><row type="TypeDouble" index="14" invalid="no">3.5555555555555567e+00</row><row type="TypeDouble" index="15" invalid="no">3.7777777777777790e+00</row><row type="TypeDouble" index="16" invalid="no">4.0000000000000009e+00</row><row type="TypeDouble" index="17" invalid="no">4.2222222222222232e+00</row><row type="TypeDouble" index="18" invalid="no">4.4444444444444455e+00</row><row type="TypeDouble" index="19" invalid="no">4.6666666666666679e+00</row><row type="TypeDouble" index="20" invalid="no">4.8888888888888902e+00</row><row type="TypeDouble" index="21" invalid="no">5.1111111111111125e+00</row><row type="TypeDouble" index="22" invalid="no">5.3333333333333348e+00</row><row type="TypeDouble" index="23" invalid="no">5.5555555555555571e+00</row><row type="TypeDouble" index="24" invalid="no">5.7777777777777795e+00</row><row type="TypeDouble" index="25" invalid="no">6.0000000000000018e+00</row><row type="TypeDouble" index="26" invalid="no">6.2222222222222241e+00</row><row type="TypeDouble" index="27" invalid="no">6.4444444444444464e+00</row><row type="TypeDouble" index="28" invalid="no">6.6666666666666687e+00</row><row type="TypeDouble" index="29" invalid="no">6.8888888888888911e+00</row><row type="TypeDouble" index="30" invalid="no">7.1111111111111134e+00</row><row type="TypeDouble" index="31" invalid="no">7.3333333333333357e+00</row><row type="TypeDouble" index="32" invalid="no">7.5555555555555580e+00</row><row type="TypeDouble" index="33" invalid="no">7.7777777777777803e+00</row><row type="TypeDouble" index="34" invalid="no">8.0000000000000018e+00</row><row type="TypeDouble" index="35" invalid="no">8.2222222222222232e+00</row><row type="TypeDouble" index="36" invalid="no">8.4444444444444446e+00</row><row type="TypeDouble" index="37" invalid="no">8.6666666666666661e+00</row><row type="TypeDouble" index="38" invalid="no">8.8888888888888875e+00</row><row type="TypeDouble" index="39" invalid="no">9.1111111111111089e+00</row><row type="TypeDouble" index="40" invalid="no">9.3333333333333304e+00</row><row type="TypeDouble" index="41" invalid="no">9.5555555555555518e+00</row><row type="TypeDouble" index="42" invalid="no">9.7777777777777732e+00</row><row type="TypeDouble" index="43" invalid="no">9.9999999999999947e+00</row><row type="TypeDouble" index="44" invalid="no">1.0222222222222216e+01</row><row type="TypeDouble" index="45" invalid="no">1.0444444444444438e+01</row><row type="TypeDouble" index="46" invalid="no">1.0666666666666659e+01</row><row type="TypeDouble" index="47" invalid="no">1.0888888888888880e+01</row><row type="TypeDouble" index="48" invalid="no">1.1111111111111102e+01</row><row type="TypeDouble" index="49" invalid="no">1.1333333333333323e+01</row><row type="TypeDouble" index="50" invalid="no">1.1555555555555545e+01</row><row type="TypeDouble" index="51" invalid="no">1.1777777777777766e+01</row><row type="TypeDouble" index="52" invalid="no">1.1999999999999988e+01</row><row type="TypeDouble" index="53" invalid="no">1.2222222222222209e+01</row><row type="TypeDouble" index="54" invalid="no">1.2444444444444430e+01</row><row type="TypeDouble" index="55" invalid="no">1.2666666666666652e+01</row><row type="TypeDouble" index="56" invalid="no">1.2888888888888873e+01</row><row type="TypeDouble" index="57" invalid="no">1.3111111111111095e+01</row><row type="TypeDouble" index="58" invalid="no">1.3333333333333316e+01</row><row type="TypeDouble" index="59" invalid="no">1.3555555555555538e+01</row><row type="TypeDouble" index="60" invalid="no">1.3777777777777759e+01</row><row type="TypeDouble" index="61" invalid="no">1.3999999999999980e+01</row><row type="TypeDouble" index="62" invalid="no">1.4222222222222202e+01</row><row type="TypeDouble" index="63" invalid="no">1.4444444444444423e+01</row><row type="TypeDouble" index="64" invalid="no">1.4666666666666645e+01</row><row type="TypeDouble" index="65" invalid="no">1.4888888888888866e+01</row><row type="TypeDouble" index="66" invalid="no">1.5111111111111088e+01</row><row type="TypeDouble" index="67" invalid="no">1.5333333333333309e+01</row><row type="TypeDouble" index="68" invalid="no">1.5555555555555530e+01</row><row type="TypeDouble" index="69" invalid="no">1.5777777777777752e+01</row><row type="TypeDouble" index="70" invalid="no">1.5999999999999973e+01</row><row type="TypeDouble" index="71" invalid="no">1.6222222222222197e+01</row><row type="TypeDouble" index="72" invalid="no">1.6444444444444418e+01</row><row type="TypeDouble" index="73" invalid="no">1.6666666666666639e+01</row><row type="TypeDouble" index="74" invalid="no">1.6888888888888861e+01</row><row type="TypeDouble" index="75" invalid="no">1.7111111111111082e+01</row><row type="TypeDouble" index="76" invalid="no">1.7333333333333304e+01</row><row type="TypeDouble" index="77" invalid="no">1.7555555555555525e+01</row><row type="TypeDouble" index="78" invalid="no">1.7777777777777747e+01</row><row type="TypeDouble" index="79" invalid="no">1.7999999999999968e+01</row><row type="TypeDouble" index="80" invalid="no">1.8222222222222189e+01</row><row type="TypeDouble" index="81" invalid="no">1.8444444444444411e+01</row><row type="TypeDouble" index="82" invalid="no">1.8666666666666632e+01</row><row type="TypeDouble" index="83" invalid="no">1.8888888888888854e+01</row><row type="TypeDouble" index="84" invalid="no">1.9111111111111075e+01</row><row type="TypeDouble" index="85" invalid="no">1.9333333333333297e+01</row><row type="TypeDouble" index="86" invalid="no">1.9555555555555518e+01</row><row type="TypeDouble" index="87" invalid="no">1.9777777777777739e+01</row><row type="TypeDouble" index="88" invalid="no">1.9999999999999961e+01</row><row type="TypeDouble" index="89" invalid="no">2.0222222222222182e+01</row><row type="TypeDouble" index="90" invalid="no">2.0444444444444404e+01</row><row type="TypeDouble" index="91" invalid="no">2.0666666666666625e+01</row><row type="TypeDouble" index="92" invalid="no">2.0888888888888847e+01</row><row type="TypeDouble" index="93" invalid="no">2.1111111111111068e+01</row><row type="TypeDouble" index="94" invalid="no">2.1333333333333290e+01</row><row type="TypeDouble" index="95" invalid="no">2.1555555555555511e+01</row></column><column creation_time="2014-08-08 08:25:39:012" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-08-08 08:25:39:012" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-08-08 08:25:39:012" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="5" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="6" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="26" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="27" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="28" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="29" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="30" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="31" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="32" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="33" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="34" invalid="no">8.9928064994638311e-15</row><row type="TypeDouble" index="35" invalid="no">8.9928064994638311e-15</row><row type="TypeDouble" index="36" invalid="no">1.7985612998927662e-14</row><row type="TypeDouble" index="37" invalid="no">5.3956838996782993e-14</row><row type="TypeDouble" index="38" invalid="no">8.0935258495174492e-14</row><row type="TypeDouble" index="39" invalid="no">1.5287771049088514e-13</row><row type="TypeDouble" index="40" invalid="no">3.1474822748123410e-13</row><row type="TypeDouble" index="41" invalid="no">6.5647487446085971e-13</row><row type="TypeDouble" index="42" invalid="no">1.3399281684201111e-12</row><row type="TypeDouble" index="43" invalid="no">2.6618707238412943e-12</row><row type="TypeDouble" index="44" invalid="no">5.3327342541820524e-12</row><row type="TypeDouble" index="45" invalid="no">1.0746403766859279e-11</row><row type="TypeDouble" index="46" invalid="no">2.1645685244209441e-11</row><row type="TypeDouble" index="47" invalid="no">4.3525183457404947e-11</row><row type="TypeDouble" index="48" invalid="no">8.7562956885279329e-11</row><row type="TypeDouble" index="49" invalid="no">1.7616008651799702e-10</row><row type="TypeDouble" index="50" invalid="no">3.5438851853087070e-10</row><row type="TypeDouble" index="51" invalid="no">7.1297667769699098e-10</row><row type="TypeDouble" index="52" invalid="no">1.4343166654384833e-09</row><row type="TypeDouble" index="53" invalid="no">2.8854948430634611e-09</row><row type="TypeDouble" index="54" invalid="no">5.8049824946948953e-09</row><row type="TypeDouble" index="55" invalid="no">1.1678301325979219e-08</row><row type="TypeDouble" index="56" invalid="no">2.3494039713689743e-08</row><row type="TypeDouble" index="57" invalid="no">4.7264590241624997e-08</row><row type="TypeDouble" index="58" invalid="no">9.5085529450145820e-08</row><row type="TypeDouble" index="59" invalid="no">1.9129024064756940e-07</row><row type="TypeDouble" index="60" invalid="no">3.8483197428718356e-07</row><row type="TypeDouble" index="61" invalid="no">7.7419350830166262e-07</row><row type="TypeDouble" index="62" invalid="no">1.5574994184364256e-06</row><row type="TypeDouble" index="63" invalid="no">3.1333307178860402e-06</row><row type="TypeDouble" index="64" invalid="no">6.3035404316292181e-06</row><row type="TypeDouble" index="65" invalid="no">1.2681270860404138e-05</row><row type="TypeDouble" index="66" invalid="no">2.5511786454379864e-05</row><row type="TypeDouble" index="67" invalid="no">5.1323784660218063e-05</row><row type="TypeDouble" index="68" invalid="no">1.0325138725708689e-04</row><row type="TypeDouble" index="69" invalid="no">2.0771695430887860e-04</row><row type="TypeDouble" index="70" invalid="no">4.1787428031247944e-04</row><row type="TypeDouble" index="71" invalid="no">8.4064880431278753e-04</row><row type="TypeDouble" index="72" invalid="no">1.6911184463176542e-03</row><row type="TypeDouble" index="73" invalid="no">3.4018431126208409e-03</row><row type="TypeDouble" index="74" invalid="no">6.8425182773035826e-03</row><row type="TypeDouble" index="75" invalid="no">1.3760685620012080e-02</row><row type="TypeDouble" index="76" invalid="no">2.7663565929451270e-02</row><row type="TypeDouble" index="77" invalid="no">5.5572839330824193e-02</row><row type="TypeDouble" index="78" invalid="no">1.1147740175949096e-01</row><row type="TypeDouble" index="79" invalid="no">2.2297015228790476e-01</row><row type="TypeDouble" index="80" invalid="no">4.4338057395572511e-01</row><row type="TypeDouble" index="81" invalid="no">8.7150714048267341e-01</row><row type="TypeDouble" index="82" invalid="no">1.6743436897284354e+00</row><row type="TypeDouble" index="83" invalid="no">3.0778220480988350e+00</row><row type="TypeDouble" index="84" invalid="no">5.2092679110080473e+00</row><row type="TypeDouble" index="85" invalid="no">7.6087770267058508e+00</row><row type="TypeDouble" index="86" invalid="no">8.6297596913624890e+00</row><row type="TypeDouble" index="87" invalid="no">6.1091648791903514e+00</row><row type="TypeDouble" index="88" invalid="no">7.4858844268110888e-02</row><row type="TypeDouble" index="89" invalid="no">-6.0069987220411871e+00</row><row type="TypeDouble" index="90" invalid="no">-8.6186515721908350e+00</row><row type="TypeDouble" index="91" invalid="no">-7.6543959330412390e+00</row><row type="TypeDouble" index="92" invalid="no">-5.2627137227894183e+00</row><row type="TypeDouble" index="93" invalid="no">-3.1169548078633040e+00</row><row type="TypeDouble" index="94" invalid="no">-1.6978775950352616e+00</row><row type="TypeDouble" index="95" invalid="no">-8.8436958831074797e-01</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width></table>
+geometry	513	0	573	381	hidden
+
+</table>
+<multiLayer>
+PlotDerivative1	1	1	05/08/2014 07:48:59
+geometry	0	0	514	437	hidden
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1038	564
+Alignement	0	0
+<graph>
+ggeometry	0	0	500	400
+PlotTitle	Title	#000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	X Axis Title	Y Axis Title			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+scale	0	0	12	0	8	5	0	0
+scale	1	0	12	0	8	5	0	0
+scale	2	0	25	0	8	5	0	0
+scale	3	0	25	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	0.238549618320611	11.7769516728625	MS Shell Dlg 2	8	50	0	0	0	#000000	1	0	#ffffff	0	</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Graph1	1	1	05/08/2014 22:12:39
+geometry	0	0	514	437	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1314	544
+Alignement	0	0
+<graph>
+ggeometry	2	3	495	374
+PlotTitle	Curva de titulação	#2d2d2d	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Volume de NaOH na solução ácida [mL]	pH			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Arial Black	12	87	0	0	0
+ScaleFont0	Arial	5	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont2	Arial	5	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	5	75	0	0	0
+AxisFont0	MS Shell Dlg 2	5	50	0	0	0
+AxisFont1	MS Shell Dlg 2	5	50	0	0	0
+AxisFont2	MS Shell Dlg 2	5	50	0	0	0
+AxisFont3	MS Shell Dlg 2	5	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Table1_1	Table1_2	1	0	0	0	1	7	1	0	0	0	0	14	1	2	0	0	25	1
+FunctionCurve	0,BoltzmannFit1,x,0,22	100			0	1	1	0	1	0	0	0	19	0	0	14	0	2	0	104113632	3145783	1
+<formula>
+A1=1.584468570556
+A2=12.1474345997227
+x0=20.0024418909812
+dx=0.317907637021187
+
+(A1-A2)/(1+exp((x-x0)/dx))+A2
+
+
+</formula>
+scale	0	0	14	0	8	5	0	0
+scale	1	0	14	0	8	5	0	0
+scale	2	-5	25	0	8	5	0	0
+scale	3	-5	25	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	-4.34285714285714	13.5667311411992	Arial	5	50	0	0	0	#000000	1	0	#ffffff	0	\c{1}Pontos coletados experimentalmente	\c{2}Curva de Boltzmann 	(interpretação gráfica obtida computacionalmente)</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+PlotDerivative3	1	1	08/08/2014 08:22:30
+geometry	0	0	514	437	minimized	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1038	564
+Alignement	0	0
+<graph>
+ggeometry	2	3	495	374
+PlotTitle	Derivada de Primeira Ordem	#000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Volume [m<sup>3</sup>]	Y			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	6	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	5	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	5	75	0	0	0
+AxisFont0	MS Shell Dlg 2	5	50	0	0	0
+AxisFont1	MS Shell Dlg 2	5	50	0	0	0
+AxisFont2	MS Shell Dlg 2	5	50	0	0	0
+AxisFont3	MS Shell Dlg 2	5	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Derivative3_1	Derivative3_2	0	1	0	0	1	0	0	0	19	0	0	14	0	2	0	0	97	1
+scale	0	0	8	0	8	5	0	0
+scale	1	0	8	0	8	5	0	0
+scale	2	0	25	0	8	5	0	0
+scale	3	0	25	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<multiLayer>
+PlotDerivative4	1	1	08/08/2014 08:25:39
+geometry	0	0	514	437	minimized	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1038	564
+Alignement	0	0
+<graph>
+ggeometry	0	0	500	400
+PlotTitle	Derivada de segunda ordem	#000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Volume [m<sup>3</sup>]	Y			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Derivative5_1	Derivative5_2	0	1	0	0	1	0	0	0	19	0	0	14	0	2	0	0	95	1
+scale	0	-10	10	0	8	5	0	0
+scale	1	-10	10	0	8	5	0	0
+scale	2	0	25	0	8	5	0	0
+scale	3	0	25	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<log>
+[05/08/2014 07:48:12	Plot: ''Graph1'']
+Polynomial fit of dataset: Table1_2, using function: a0+a1*x+a2*x^2
+Y standard errors: Unknown
+From x = 0 to x = 22
+a0  = 3,28655400074857 +/- 1,80483518221739
+a1  = -1,00379553610996 +/- 0,365851842598937
+a2  = 0,0584365988484345 +/- 0,0151811158772413
+--------------------------------------------------------------------------------------
+Chi^2/doF = 6,12750788828756
+R^2 = 0,628550866735733
+---------------------------------------------------------------------------------------
+[05/08/2014 07:48:48	Plot: ''Graph1'']
+
+Numerical integration of: Table1_2 using LinearInterpolation
+Points: 26 from x = 0 to x = 22
+Peak at x = 22	y = 12,13
+Area=51,263
+-------------------------------------------------------------
+[05/08/2014 07:49:30	Plot: ''Graph1'']
+
+Numerical integration of: Table1_2 using LinearInterpolation
+Points: 26 from x = 0 to x = 22
+Peak at x = 22	y = 12,13
+Area=51,263
+-------------------------------------------------------------
+[05/08/2014 07:51:51	Plot: ''Graph1'']
+Exponential decay fit of dataset: Table1_2, using function: y0+A*exp(-x/t)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A (amplitude) = -1.594.528,21322793 +/- 709.032.143.763,479
+t (e-folding time) = 4.267.283,25888533 +/- 0,104203772925189
+y0 (offset) = 1.594.526,61678291 +/- 709.032.143.765,106
+--------------------------------------------------------------------------------------
+Chi^2/doF = 10,0749808624617
+R^2 = 0,389255309459693
+---------------------------------------------------------------------------------------
+Iterations = 1000
+Status = the iteration has not converged yet
+---------------------------------------------------------------------------------------
+[05/08/2014 07:52:10	Plot: ''Graph1'']
+Gauss fit of dataset: Table1_2, using function: y0+A*sqrt(2/PI)/w*exp(-2*((x-xc)/w)^2)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A (amplitude) = 33,4305851238711 +/- 2,2457682406713
+xc (center) = 21,4368066819593 +/- 0,0718840246460884
+w (width) = 2,23591417320928 +/- 0,135282037022916
+y0 (offset) = 1,38690900184346 +/- 0,181520423672906
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,390780148141981
+R^2 = 0,977340892057708
+---------------------------------------------------------------------------------------
+Iterations = 18
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 07:52:31	Plot: ''Graph1'']
+Exponential decay fit of dataset: Table1_2, using function: A1*exp(-x/t1)+A2*exp(-x/t2)+y0
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A1 (first amplitude) = -15,871402250596 +/- 116.824.884.150,848
+t1 (first lifetime) = 77,8218787788535 +/- 1.024.128,64754826
+A2 (second amplitude) = -15,8706760395613 +/- 116.825.367.049,665
+t2 (second lifetime) = 76,187180857826 +/- 1.005.746,32383785
+y0 (offset) = 30,2409507278642 +/- 482.991,898615087
+--------------------------------------------------------------------------------------
+Chi^2/doF = 11,3947535688906
+R^2 = 0,369315923225575
+---------------------------------------------------------------------------------------
+Iterations = 1000
+Status = the iteration has not converged yet
+---------------------------------------------------------------------------------------
+[05/08/2014 07:52:39	Plot: ''Graph1'']
+Exponential growth fit of dataset: Table1_2, using function: y0+A*exp(x/t)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A (amplitude) = 0,000356794225859276 +/- 0,000577592682507573
+t (lifetime) = 2,0724799013206 +/- 0,0753817937965851
+y0 (offset) = 0,678078062878868 +/- 0,564940182381455
+--------------------------------------------------------------------------------------
+Chi^2/doF = 2,55730116422014
+R^2 = 0,844976568245473
+---------------------------------------------------------------------------------------
+Iterations = 16
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 07:53:24	Plot: ''Graph1'']
+Boltzmann (Sigmoidal) Fit fit of dataset: Table1_2, using function: (A1-A2)/(1+exp((x-x0)/dx))+A2
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A1 (init value) = 1,584468570556 +/- 0,137857679634798
+A2 (final value) = 12,1474345997227 +/- 0,383680590096199
+x0 (center) = 20,0024418909812 +/- 0,0447252456856679
+dx (time constant) = 0,317907637021187 +/- 0,0359844585787885
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,255887242445284
+R^2 = 0,98516256090492
+---------------------------------------------------------------------------------------
+Iterations = 10
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 07:54:00	Plot: ''Graph1'']
+Exponential growth fit of dataset: Table1_2, using function: y0+A*exp(x/t)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A (amplitude) = 0,000356794224819846 +/- 0,000577592680935677
+t (lifetime) = 2,07247990073771 +/- 0,0753817938105702
+y0 (offset) = 0,678078063501764 +/- 0,564940182338312
+--------------------------------------------------------------------------------------
+Chi^2/doF = 2,55730116422017
+R^2 = 0,844976568245471
+---------------------------------------------------------------------------------------
+Iterations = 16
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 07:54:14	Plot: ''Graph1'']
+Boltzmann (Sigmoidal) Fit fit of dataset: Table1_2, using function: (A1-A2)/(1+exp((x-x0)/dx))+A2
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A1 (init value) = 1,584468570556 +/- 0,137857679634798
+A2 (final value) = 12,1474345997227 +/- 0,383680590096199
+x0 (center) = 20,0024418909812 +/- 0,0447252456856679
+dx (time constant) = 0,317907637021187 +/- 0,0359844585787885
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,255887242445284
+R^2 = 0,98516256090492
+---------------------------------------------------------------------------------------
+Iterations = 10
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 07:54:59	Plot: ''Graph2'']
+Gauss fit of dataset: Table1_2, using function: y0+A*sqrt(2/PI)/w*exp(-2*((x-xc)/w)^2)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A (amplitude) = 33,4305851238711 +/- 2,2457682406713
+xc (center) = 21,4368066819593 +/- 0,0718840246460884
+w (width) = 2,23591417320928 +/- 0,135282037022916
+y0 (offset) = 1,38690900184346 +/- 0,181520423672906
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,390780148141981
+R^2 = 0,977340892057708
+---------------------------------------------------------------------------------------
+Iterations = 18
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 07:55:12	Plot: ''Graph3'']
+Lorentz fit of dataset: Table1_2, using function: y0+2*A/PI*w/(4*(x-xc)^2+w^2)
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A (amplitude) = 432,217343869378 +/- 18.857.559,8097482
+xc (center) = 124,509981610663 +/- 19.395,4006770654
+w (width) = 264,502807599718 +/- 10.632.650,0201654
+y0 (offset) = 1,07241102737952 +/- 7.151,01009078953
+--------------------------------------------------------------------------------------
+Chi^2/doF = 24,741557766063
+R^2 = -0,434621565980808
+---------------------------------------------------------------------------------------
+Iterations = 12
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 07:58:36	Plot: ''Graph3'']
+Boltzmann (Sigmoidal) Fit fit of dataset: Table1_2, using function: (A1-A2)/(1+exp((x-x0)/dx))+A2
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A1 (init value) = 1,584468570556 +/- 0,137857679634798
+A2 (final value) = 12,1474345997227 +/- 0,383680590096199
+x0 (center) = 20,0024418909812 +/- 0,0447252456856679
+dx (time constant) = 0,317907637021187 +/- 0,0359844585787885
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,255887242445284
+R^2 = 0,98516256090492
+---------------------------------------------------------------------------------------
+Iterations = 10
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 08:04:45	Plot: ''Graph2'']
+Boltzmann (Sigmoidal) Fit fit of dataset: Table1_2, using function: (A1-A2)/(1+exp((x-x0)/dx))+A2
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 19 to x = 20
+A1 (init value) = 2,61578961391115 +/- 0,0742087791275993
+A2 (final value) = 6,38317907510354 +/- 0,188756654447767
+x0 (center) = 19,7107380235223 +/- 0,0179895182414706
+dx (time constant) = 0,105883727603226 +/- 0,014432602727542
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,0108281414196691
+R^2 = 0,998100451037051
+---------------------------------------------------------------------------------------
+Iterations = 6
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 08:08:15	Plot: ''Graph1'']
+Boltzmann (Sigmoidal) Fit fit of dataset: Table1_2, using function: (A1-A2)/(1+exp((x-x0)/dx))+A2
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A1 (init value) = 1,584468570556 +/- 0,137857679634798
+A2 (final value) = 12,1474345997227 +/- 0,383680590096199
+x0 (center) = 20,0024418909812 +/- 0,0447252456856679
+dx (time constant) = 0,317907637021187 +/- 0,0359844585787885
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,255887242445284
+R^2 = 0,98516256090492
+---------------------------------------------------------------------------------------
+Iterations = 10
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 08:08:58	Plot: ''Graph2'']
+Boltzmann (Sigmoidal) Fit fit of dataset: Table1_2, using function: (A1-A2)/(1+exp((x-x0)/dx))+A2
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 19 to x = 20
+A1 (init value) = 2,61578961391115 +/- 0,0742087791275993
+A2 (final value) = 6,38317907510354 +/- 0,188756654447767
+x0 (center) = 19,7107380235223 +/- 0,0179895182414706
+dx (time constant) = 0,105883727603226 +/- 0,014432602727542
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,0108281414196691
+R^2 = 0,998100451037051
+---------------------------------------------------------------------------------------
+Iterations = 6
+Status = success
+---------------------------------------------------------------------------------------
+[05/08/2014 22:13:01	Plot: ''Graph1'']
+Boltzmann (Sigmoidal) Fit fit of dataset: Table1_2, using function: (A1-A2)/(1+exp((x-x0)/dx))+A2
+Y standard errors: Unknown
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 0 to x = 22
+A1 (init value) = 1,584468570556 +/- 0,137857679634798
+A2 (final value) = 12,1474345997227 +/- 0,383680590096199
+x0 (center) = 20,0024418909812 +/- 0,0447252456856679
+dx (time constant) = 0,317907637021187 +/- 0,0359844585787885
+--------------------------------------------------------------------------------------
+Chi^2/doF = 0,255887242445284
+R^2 = 0,98516256090492
+---------------------------------------------------------------------------------------
+Iterations = 10
+Status = success
+---------------------------------------------------------------------------------------
+</log>

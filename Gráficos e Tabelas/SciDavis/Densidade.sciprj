@@ -1,0 +1,162 @@
+SciDAVis 1.0.5 project file
+<scripting-lang>	muParser
+<windows>	2
+<table>
+4307
+<table creation_time="2014-19-05 13:33:34:562" caption_spec="%n%C{ - }%c" name="Table1" columns="4" rows="30"><comment><![CDATA[]]></comment><column creation_time="2014-19-05 13:33:34:562" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-19-05 13:33:34:562" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-19-05 13:33:34:562" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.1670000000000000e+02</row><row type="TypeDouble" index="1" invalid="no">2.5918000000000001e+02</row><row type="TypeDouble" index="2" invalid="no">8.1329999999999998e+01</row><row type="TypeDouble" index="3" invalid="no">1.8733000000000001e+02</row><row type="TypeDouble" index="4" invalid="no">8.6799999999999997e+01</row></column><column creation_time="2014-19-05 13:33:34:562" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="xErr"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-19-05 13:33:34:562" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-19-05 13:33:34:562" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">5.0000000000000003e-02</row><row type="TypeDouble" index="1" invalid="no">5.0000000000000003e-02</row><row type="TypeDouble" index="2" invalid="no">5.0000000000000003e-02</row><row type="TypeDouble" index="3" invalid="no">5.0000000000000003e-02</row><row type="TypeDouble" index="4" invalid="no">5.0000000000000003e-02</row></column><column creation_time="2014-19-05 14:08:23:684" caption_spec="%n%C{ - }%c" name="3" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-19-05 14:08:23:684" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-19-05 14:08:23:684" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.4830000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">3.3020000000000003e+01</row><row type="TypeDouble" index="2" invalid="no">1.0670000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">1.9120000000000001e+01</row><row type="TypeDouble" index="4" invalid="no">1.1660000000000000e+01</row></column><column creation_time="2014-19-05 14:08:27:462" caption_spec="%n%C{ - }%c" name="4" type="TypeDouble" mode="Numeric" plot_designation="yErr"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2014-19-05 14:08:27:462" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2014-19-05 14:08:27:462" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">1.7000000000000000e+00</row><row type="TypeDouble" index="1" invalid="no">1.7000000000000000e+00</row><row type="TypeDouble" index="2" invalid="no">1.7000000000000000e+00</row><row type="TypeDouble" index="3" invalid="no">1.7000000000000000e+00</row><row type="TypeDouble" index="4" invalid="no">1.7000000000000000e+00</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width></table>
+geometry	533	49	834	381	
+
+</table>
+<multiLayer>
+Graph1	1	1	19/05/2014 14:18:40
+geometry	0	0	514	437	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	448	307
+Alignement	0	0
+<graph>
+ggeometry	5	5	489	368
+PlotTitle	Title	#000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0	#a0a0a4	2	0	#0000ff	0	0	#a0a0a4	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	X Axis Title	Y Axis Title			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	MS Shell Dlg 2	10	75	0	0	0
+ScaleFont0	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont1	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont2	MS Shell Dlg 2	8	75	0	0	0
+ScaleFont3	MS Shell Dlg 2	8	75	0	0	0
+AxisFont0	MS Shell Dlg 2	8	50	0	0	0
+AxisFont1	MS Shell Dlg 2	8	50	0	0	0
+AxisFont2	MS Shell Dlg 2	8	50	0	0	0
+AxisFont3	MS Shell Dlg 2	8	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	Table1_1	Table1_3	1	0	0	0	1	7	1	0	0	0	0	14	1	2	0	0	4	1
+ErrorBars	0	Table1_1	Table1_3	Table1_2	1	8	#000000	1	1	1
+ErrorBars	1	Table1_1	Table1_3	Table1_4	1	8	#000000	1	1	1
+scale	0	5	35	0	8	5	0	0
+scale	1	5	35	0	8	5	0	0
+scale	2	50	300	0	8	5	0	0
+scale	3	50	300	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+</graph>
+</multiLayer>
+<log>
+[19/05/2014 14:19:17	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_3, using function: A*x+B
+Y standard errors: Associated dataset (Table1_4)
+From x = 86,8 to x = 116,7
+B (y-intercept) = 2,45745819397994 +/- 8,26922963298618
+A (slope) = 0,106020066889632 +/- 0,0804067911717144
+--------------------------------------------------------------------------------------
+Chi^2/doF = inf
+R^2 = 1
+---------------------------------------------------------------------------------------
+[19/05/2014 14:19:43	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_3, using function: A*x+B
+Y standard errors: Associated dataset (Table1_4)
+From x = 86,8 to x = 116,7
+B (y-intercept) = 2,45745819397994 +/- 8,26922963298618
+A (slope) = 0,106020066889632 +/- 0,0804067911717144
+--------------------------------------------------------------------------------------
+Chi^2/doF = inf
+R^2 = 1
+---------------------------------------------------------------------------------------
+[19/05/2014 14:20:17	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_3, using function: A*x+B
+Y standard errors: Associated dataset (Table1_4)
+From x = 86,8 to x = 116,7
+B (y-intercept) = 2,45745819397994 +/- 8,26922963298618
+A (slope) = 0,106020066889632 +/- 0,0804067911717144
+--------------------------------------------------------------------------------------
+Chi^2/doF = inf
+R^2 = 1
+---------------------------------------------------------------------------------------
+[19/05/2014 14:20:35	Plot: ''Graph1'']
+Exponential decay fit of dataset: Table1_3, using function: y0+A*exp(-x/t)
+Y standard errors: Associated dataset (Table1_4)
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 86,8 to x = 259,18
+A (amplitude) = 6,92686552054672e+40 +/- 0
+t (e-folding time) = 2,97464948337465e-38 +/- 0
+y0 (offset) = 19,6575 +/- 0,85
+--------------------------------------------------------------------------------------
+Chi^2/doF = 92,0796107266436
+R^2 = -6,09321620936853e-17
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = cannot reach the specified tolerance in F
+---------------------------------------------------------------------------------------
+[19/05/2014 14:20:36	Plot: ''Graph1'']
+Exponential decay fit of dataset: Table1_3, using function: y0+A*exp(-x/t)
+Y standard errors: Associated dataset (Table1_4)
+Scaled Levenberg-Marquardt algorithm with tolerance = 0,0001
+From x = 86,8 to x = 259,18
+A (amplitude) = 6,92686552054672e+40 +/- 0
+t (e-folding time) = 2,97464948337465e-38 +/- 0
+y0 (offset) = 19,6575 +/- 0,85
+--------------------------------------------------------------------------------------
+Chi^2/doF = 92,0796107266436
+R^2 = -6,09321620936853e-17
+---------------------------------------------------------------------------------------
+Iterations = 0
+Status = cannot reach the specified tolerance in F
+---------------------------------------------------------------------------------------
+[19/05/2014 14:20:45	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_3, using function: A*x+B
+Y standard errors: Associated dataset (Table1_4)
+From x = 86,8 to x = 116,7
+B (y-intercept) = 2,45745819397994 +/- 8,26922963298618
+A (slope) = 0,106020066889632 +/- 0,0804067911717144
+--------------------------------------------------------------------------------------
+Chi^2/doF = inf
+R^2 = 1
+---------------------------------------------------------------------------------------
+[19/05/2014 14:21:17	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_3, using function: A*x+B
+Y standard errors: Associated dataset (Table1_4)
+From x = 86,8 to x = 116,7
+B (y-intercept) = 2,45745819397994 +/- 8,26922963298618
+A (slope) = 0,106020066889632 +/- 0,0804067911717144
+--------------------------------------------------------------------------------------
+Chi^2/doF = inf
+R^2 = 1
+---------------------------------------------------------------------------------------
+[19/05/2014 14:21:29	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_3, using function: A*x+B
+Y standard errors: Associated dataset (Table1_4)
+From x = 86,8 to x = 116,7
+B (y-intercept) = 2,45745819397994 +/- 8,26922963298618
+A (slope) = 0,106020066889632 +/- 0,0804067911717144
+--------------------------------------------------------------------------------------
+Chi^2/doF = inf
+R^2 = 1
+---------------------------------------------------------------------------------------
+[19/05/2014 14:21:57	Plot: ''Graph1'']
+Linear Regression fit of dataset: Table1_3, using function: A*x+B
+Y standard errors: Associated dataset (Table1_4)
+From x = 86,8 to x = 116,7
+B (y-intercept) = 2,45745819397994 +/- 8,26922963298618
+A (slope) = 0,106020066889632 +/- 0,0804067911717144
+--------------------------------------------------------------------------------------
+Chi^2/doF = inf
+R^2 = 1
+---------------------------------------------------------------------------------------
+</log>
