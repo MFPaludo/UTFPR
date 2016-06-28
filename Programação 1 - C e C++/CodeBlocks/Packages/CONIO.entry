@@ -1,0 +1,20 @@
+[Setup]
+AppName=CONIO
+AppVersion=2.0.win64
+
+[Files]
+D:/CodeBlocks/conio-2.0.win64-1ext.DevPackage
+D:/CodeBlocks/bin/conio_test.exe
+D:/CodeBlocks/bin/conio_test_unicode.exe
+D:/CodeBlocks/bin/constream_test.exe
+D:/CodeBlocks/docs/conio/CONIO.chm
+D:/CodeBlocks/docs/conio/conio.pdf
+D:/CodeBlocks/docs/conio/index.html
+D:/CodeBlocks/docs/conio/tutorial.html
+D:/CodeBlocks/Examples/conio/conio_test.c
+D:/CodeBlocks/Examples/conio/constream_test.cpp
+D:/CodeBlocks/Examples/conio/[built in bin directory]
+D:/CodeBlocks/include/conio2.h
+D:/CodeBlocks/include/constream
+D:/CodeBlocks/lib/libconio.a
+D:/CodeBlocks/lib/libconio_unicode.a

@@ -1,0 +1,44 @@
+1)
+Inclua biblioteca stdio
+Inclua biblioteca math.h
+Utilize como função principal "double main()"
+Inclua a flutuante denominada v1
+Exiba uma mensagem pedindo ao usuário para que digite um número para verificar se o número digitado é maior que 20
+Escaneie o número e atribua o valor escaneado à variável flutuante v1
+Se o número for maior que 20 exiba a mensagem "É maior que 20"
+Caso contrário, exiba a mensagem "Não é maior que 20"
+Não retorne valores
+
+2)
+Inclua biblioteca stdio
+Inclua biblioteca math.h
+Utilize como função principal "int main()"
+Inclua uma flutuante inteira denominada v1
+Inclua uma flutuante inteira denominada v2
+Inclua uma flutuante inteira denominada v3
+Exiba uma mensagem pedindo ao usuário para que digite dois números inteiros
+Faça uma operação matemática de soma com os 2 valores digitados pelo usuário e determine a flutuante inteira v3 como resultado da operação
+Exiba na tela o valor de v3 se este for maior que 10
+Não retorne valores
+
+3)
+Inclua biblioteca stdio
+Inclua biblioteca math.h
+Utilize como função principal "int main()"
+Inclua uma flutuante inteira denominada v1
+Exiba uma mensagem pedindo ao usuário para que ele digite um número inteiro a fim de saber se tal número é ímpar ou par
+Se o número digitado/2 tiver resto 0 imprima na tela uma mensagem informando que o número é par
+Caso contrário, imprima uma mensagem informando que o número é ímpar
+Não retorne valores
+
+4)
+Inclua biblioteca stdio
+Inclua biblioteca math.h
+Utilize como função principal "double main()"
+Inclua a flutuante denominada v1
+Exiba uma mensagem pedindo ao usuário para que digite um número para verificar se o número digitado é positivo, negativo ou nulo
+Escaneie o número digitado e atribua à flutuante v1 este valor
+Se o valor for maior que 0 ele é positivo
+Caso contrário e se o valor for menor que 0 ele é negativo
+Caso contrário e se o valor for igual a 0 ele é nulo
+Não retorne valores
